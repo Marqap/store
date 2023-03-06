@@ -803,5 +803,19 @@
     	"desc": "Virtual Machine...",
     	"feat": "Inception",
     	"invert": true
-  }
-}]
+	": true
+		}
+	},
+    {
+  		"name": "Google",
+  		"icon": "https://eu-browse.startpage.com/av/anon-image?piurl=https%3A%2F%2Fplay-lh.googleusercontent.com%2F6UgEjh8Xuts4nwdWzTnWH8QtLuHqRMUB7dp24JYVE2xcYzq4HA8hFfcAbU-R-PC_9uA1&sp=1678098886T163c468111289cbba500662c0d1a6071d9aa388b6cceed29e27da03650f2ee6b",
+  		"type": "app",
+  		"data": {
+    			"type": "IFrame",
+    			"url": "https://www.google.com",
+    			"gallery": [
+      				"https://news.microsoft.com/wp-content/uploads/prod/sites/454/2021/10/Hero-Bloom-Logo-800x533-1.jpg"
+    	],
+    	"desc": "No Description",
+    	"feat": "No Tabs",
+    	"invert": true
