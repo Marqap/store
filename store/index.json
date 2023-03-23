@@ -849,5 +849,20 @@
     	"desc": "Virtual Machine...",
     	"feat": "Inception",
     	"invert": true
+ {
+  "name": "Google",
+  "icon": "https://eu-browse.startpage.com/av/anon-image?piurl=https%3A%2F%2Fplay-lh.googleusercontent.com%2F6UgEjh8Xuts4nwdWzTnWH8QtLuHqRMUB7dp24JYVE2xcYzq4HA8hFfcAbU-R-PC_9uA1&sp=1679577153Ta21e4cdc6e0d51027e42804a47b9395aee31af8380670ab985b24ff8ef719f6b",
+  "type": "app",
+  "data": {
+    "type": "IFrame",
+    "url": "https://www.google.com",
+    "gallery": [
+      "https://www.minecraft.net/content/dam/games/minecraft/key-art/CavesandCliffsPt1-dotNET-HomepagePromo-600x360.png",
+      "https://variety.com/wp-content/uploads/2019/02/minecraft-best-year-yet.png?w=600",
+      "https://www.minecraft.net/content/dam/games/minecraft/screenshots/RayTracing-MineCraft-PMP-Always-Something-New.jpg"
+    ],
+    "desc": "Google Is A Search App",
+    "feat": " \1.1Google Logo Changed.\n1.2 Bug Fixes.",
+    "invert": true
   }
 }]
